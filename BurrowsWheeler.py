@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 def BurrowsWheelerTransformer(text):	
 	arr = []
 	i = 0
